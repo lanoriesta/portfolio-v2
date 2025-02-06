@@ -9,7 +9,8 @@ body {
 }
 
 h1,
-h3 {
+h3,
+h2 {
   font-family: "Gilda Display", serif;
   font-weight: 400;
   font-style: normal;
@@ -18,12 +19,17 @@ h3 {
 
 h1 {
   color: #f1eccc;
-  font-size: 1.8rem;
+  font-size: 2rem;
 }
 
 h3 {
   color: #494949;
   font-size: 1em;
+}
+
+h2 {
+  color: #f1eccc;
+  font-size: 1.5rem;
 }
 
 p {
