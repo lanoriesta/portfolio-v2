@@ -15,7 +15,7 @@ const Header = () => {
         </p>
       </a>
       <a
-        href="mailto:law.noriesta@gmail.com"
+        href="https://www.linkedin.com/in/l-a-noriesta"
         className="flex flex-row justify-center items-center space-x-2"
       >
         <img src={linkedinIcon} alt="email icon" srcset="" className="size-8" />
