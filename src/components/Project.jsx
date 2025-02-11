@@ -7,7 +7,9 @@ const Project = () => {
       {projects.map((project) => (
         <div key={project.id}>
           {/* <h3 className=" text-amber-100">{project.name}</h3> */}
-          <img src={project.image} alt={project.name} />
+          <a href={project.img_link} target="_blank" rel="noreferrer">
+            <img src={project.image} alt={project.name} />
+          </a>
         </div>
       ))}
     </div>
