@@ -8,7 +8,11 @@ const Project = () => {
         <div key={project.id}>
           {/* <h3 className=" text-amber-100">{project.name}</h3> */}
           <a href={project.img_link} target="_blank" rel="noreferrer">
-            <img src={project.image} alt={project.name} />
+            <img
+              className="hover:scale-105 hover:shadow-none transition duration-300 ease-in-out shadow-lg shadow-black/30"
+              src={project.image}
+              alt={project.name}
+            />
           </a>
         </div>
       ))}
