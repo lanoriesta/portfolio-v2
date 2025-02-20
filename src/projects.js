@@ -1,10 +1,10 @@
 const projects = [
   {
     id: 1,
-    name: "Blog App",
-    description: "A simple blog app",
+    name: "Product Store",
+    description: "A simple shopping cart app",
     image: "src/assets/work thumbnail/2.png",
-    img_link: "https://mern-blog-xfvb.onrender.com/",
+    img_link: "https://product-app-1igi.onrender.com/",
   },
   {
     id: 2,
