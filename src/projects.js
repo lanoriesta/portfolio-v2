@@ -19,8 +19,7 @@ const projects = [
     name: "PortGiving Tuesday Philippines",
     description: "A simple web design",
     image: "src/assets/work thumbnail/4.png",
-    img_link:
-      "https://www.figma.com/proto/dkOhqsfVAGQAGWfODPwSzq/MagisProject2?page-id=0%3A1&node-id=2-2&starting-point-node-id=2%3A2&scaling=scale-down-width&content-scaling=fixed&t=2tjYEjZ3V0EMiOiB-1",
+    img_link: "https://giving-tuesday-project.onrender.com/",
   },
   {
     id: 4,
