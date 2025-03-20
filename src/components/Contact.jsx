@@ -4,7 +4,7 @@ import CV from "../assets/files/Lawrence Noriesta CV2.pdf";
 const Contact = () => {
   return (
     <div className="w-[450px] md:w-[750px] lg:w-[980px] mx-auto py-10 text-center">
-      <h2>Get in touch</h2>
+      <h2>Let’s connect and build something great!</h2>
       <div className="flex justify-center items-center gap-4 pt-5">
         <a
           className="w-[100px] bg-[#f1eccc] hover:underline px-6 py-4 shadow-lg"

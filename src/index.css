@@ -26,16 +26,12 @@ h1 {
 
 h3 {
   color: #494949;
-  font-size: 1em;
+  font-size: 1.2em;
 }
 
 h2 {
   color: #f1eccc;
   font-size: 1.5rem;
-}
-
-p {
-  font-family: "Times New Roman", Times, serif;
 }
 
 button {
