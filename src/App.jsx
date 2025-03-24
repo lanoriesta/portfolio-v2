@@ -15,7 +15,7 @@ function App() {
         <hr className="h-[2px] bg-[#f1eccc]/30 " />
       </div>
       <Contact />
-      <p className="text-center pt-10 pb-3 text-white/20">
+      <p className="text-center text-xs pt-10 pb-3 text-white/20">
         © 2024 All rights reserved.
       </p>
     </div>
