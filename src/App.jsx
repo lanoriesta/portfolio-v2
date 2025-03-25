@@ -1,14 +1,14 @@
 import Contact from "./components/Contact";
 import Experience from "./components/Experience";
 import Header from "./components/header";
-// import MainKeyVisual from "./components/MainKeyVisual";
+import MainKeyVisual from "./components/MainKeyVisual";
 import Project from "./components/Project";
 
 function App() {
   return (
     <div className=" min-h-full">
       <Header />
-      {/* <MainKeyVisual /> */}
+      <MainKeyVisual />
       <Experience />
       <Project />
       <div className=" w-[450px] md:w-[750px] lg:w-[980px] mx-auto">
