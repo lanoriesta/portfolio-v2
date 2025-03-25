@@ -2,6 +2,7 @@ import Contact from "./components/Contact";
 import Experience from "./components/Experience";
 import Header from "./components/header";
 // import MainKeyVisual from "./components/MainKeyVisual";
+import MainKeyVisualSection from "./components/MainKeyVisualSection";
 import Project from "./components/Project";
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
     <div className=" min-h-full">
       <Header />
       {/* <MainKeyVisual /> */}
+      <MainKeyVisualSection />
       <Experience />
       <Project />
       <div className=" w-[450px] md:w-[750px] lg:w-[980px] mx-auto">
