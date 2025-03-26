@@ -3,7 +3,7 @@ import CV from "../assets/files/Lawrence Noriesta CV2.pdf";
 
 const Contact = () => {
   return (
-    <div className="w-[450px] md:w-[750px] lg:w-[980px] mx-auto py-10 text-center">
+    <div className="w-[360px] md:w-[750px] lg:w-[980px] mx-auto py-10 text-center">
       <h2>Let’s connect and build something great!</h2>
       <div className="flex justify-center items-center gap-4 pt-5">
         <a

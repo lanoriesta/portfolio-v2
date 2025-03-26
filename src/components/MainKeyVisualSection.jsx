@@ -3,7 +3,7 @@ import HeadShot from "../assets/images/headshot-lawrence.png";
 
 const MainKeyVisualSection = () => {
   return (
-    <div className="flex flex-col justify-center items-center py-[150px]">
+    <div className="flex flex-col justify-center items-center text-center py-[150px]">
       <div className="pb-5">
         <img
           src={HeadShot}

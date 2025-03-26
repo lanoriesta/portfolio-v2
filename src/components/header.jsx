@@ -4,7 +4,7 @@ import linkedinIcon from "../assets/icons/linkedin-50.png";
 
 const Header = () => {
   return (
-    <div className=" w-[450px] md:w-[750px] lg:w-[980px] flex flex-row justify-between items-center text-[#f1eccc]  p-4 mx-auto">
+    <div className=" w-[360px] md:w-[750px] lg:w-[980px] flex flex-row justify-between items-center text-[#f1eccc]  p-4 mx-auto">
       <a
         href="mailto:law.noriesta@gmail.com"
         className="flex flex-row justify-center items-center space-x-2"

@@ -13,7 +13,7 @@ function App() {
       <MainKeyVisualSection />
       <Experience />
       <Project />
-      <div className=" w-[450px] md:w-[750px] lg:w-[980px] mx-auto">
+      <div className=" w-[360px] md:w-[750px] lg:w-[980px] mx-auto">
         <hr className="h-[2px] bg-[#f1eccc]/30 " />
       </div>
       <Contact />
