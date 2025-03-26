@@ -3,7 +3,7 @@
 
 body {
   background-color: #2e2e2e;
-  background-image: url("src/assets/background/mainBG2.png");
+  background-image: url("/src/assets/background/mainBG2.png");
   backdrop-filter: brightness(0.3);
   background-size: repeat;
 }
