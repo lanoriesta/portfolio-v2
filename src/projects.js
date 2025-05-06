@@ -16,8 +16,7 @@ const projects = [
     name: "Gawad Kalinga USA",
     description: "A simple web design",
     image: ThumbnailTwo,
-    img_link:
-      "https://www.figma.com/proto/cnS5JDbcBBRXVWSr7WAO0F/MagisProject_GawadKalinga?page-id=0%3A1&node-id=1-2&scaling=scale-down-width&content-scaling=fixed&t=olQQXyyv2iJfWThl-1",
+    img_link: "https://gawad-kalinga-project.onrender.com/",
   },
   {
     id: 3,
