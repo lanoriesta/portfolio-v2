@@ -1,5 +1,5 @@
 import React from "react";
-import CV from "../assets/files/Lawrence Noriesta CV2.pdf";
+import CV from "../assets/files/Lawrence Noriesta CV2.1.pdf";
 
 const Contact = () => {
   return (

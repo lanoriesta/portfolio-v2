@@ -20,7 +20,7 @@ const projects = [
   },
   {
     id: 3,
-    name: "PortGiving Tuesday Philippines",
+    name: "Giving Tuesday Philippines",
     description: "A simple web design",
     image: ThumbnailThree,
     img_link: "https://giving-tuesday-project.onrender.com/",
