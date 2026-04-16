@@ -1,5 +1,3 @@
-import React from "react";
-
 const Experience = () => {
   return (
     <div className="bg-[#121212] text-[#494949] p-8 py-10">

@@ -1,4 +1,3 @@
-import React from "react";
 import emailIcon from "../assets/icons/mail-50.png";
 import linkedinIcon from "../assets/icons/linkedin-50.png";
 
@@ -9,7 +8,7 @@ const Header = () => {
         href="mailto:law.noriesta@gmail.com"
         className="flex flex-row justify-center items-center space-x-2"
       >
-        <img src={emailIcon} alt="email icon" srcset="" className="size-8" />{" "}
+        <img src={emailIcon} alt="email icon" className="size-8" />{" "}
         <p className=" tracking-widest hidden sm:block">
           law.noriesta@gmail.com
         </p>
@@ -18,7 +17,7 @@ const Header = () => {
         href="https://www.linkedin.com/in/l-a-noriesta"
         className="flex flex-row justify-center items-center space-x-2"
       >
-        <img src={linkedinIcon} alt="email icon" srcset="" className="size-8" />
+        <img src={linkedinIcon} alt="email icon" className="size-8" />
         <p className=" tracking-widest hidden sm:block">la.noriesta</p>
       </a>
     </div>
