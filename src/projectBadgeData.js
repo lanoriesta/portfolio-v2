@@ -2,10 +2,10 @@ import gtBadgelogo from "./assets/badge logo/giving-tuesday-badge-logo.png";
 import gkBadgeLogo from "./assets/badge logo/GK-badge-logo.png";
 import kaisahanBaddgeLogo from "./assets/badge logo/kaisahan-badge-logo.png";
 import psBadgeLogo from "./assets/badge logo/product-store-badge-logo.png";
-import psThumbnail from "./assets/work thumbnail/thumbnail-product-store.png";
-import gkThumbnail from "./assets/work thumbnail/thumbnail-gk.png";
-import gtThumbnail from "./assets/work thumbnail/thumbnail-gt.png";
-import kaisahanThumbnail from "./assets/work thumbnail/thumbnail-kaisahan.png";
+import psThumbnail from "./assets/thumbnail/thumbnail-product-store.png";
+import gkThumbnail from "./assets/thumbnail/thumbnail-gk.png";
+import gtThumbnail from "./assets/thumbnail/thumbnail-gt.png";
+import kaisahanThumbnail from "./assets/thumbnail/thumbnail-kaisahan.png";
 
 const projectsBadgeData = [
   {
