@@ -108,6 +108,13 @@ const Badge = ({ project }) => {
           </a>
         )}
       </div>
+      <div className="w-full rounded-lg overflow-hidden mb-3 ">
+        <img
+          src={project.thumbnail}
+          alt={`${project.name} preview`}
+          className="w-full block object-cover"
+        />
+      </div>
 
       {/* Description */}
       <p className="text-[12px] text-[#888780] leading-relaxed mb-3">

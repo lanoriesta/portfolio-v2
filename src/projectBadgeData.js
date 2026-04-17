@@ -2,6 +2,10 @@ import gtBadgelogo from "./assets/badge logo/giving-tuesday-badge-logo.png";
 import gkBadgeLogo from "./assets/badge logo/GK-badge-logo.png";
 import kaisahanBaddgeLogo from "./assets/badge logo/kaisahan-badge-logo.png";
 import psBadgeLogo from "./assets/badge logo/product-store-badge-logo.png";
+import psThumbnail from "./assets/work thumbnail/thumbnail-product-store.png";
+import gkThumbnail from "./assets/work thumbnail/thumbnail-gk.png";
+import gtThumbnail from "./assets/work thumbnail/thumbnail-gt.png";
+import kaisahanThumbnail from "./assets/work thumbnail/thumbnail-kaisahan.png";
 
 const projectsBadgeData = [
   {
@@ -10,6 +14,7 @@ const projectsBadgeData = [
     nameHighlight: "STORE",
     nameHighlightStyle: "inverted",
     logo: psBadgeLogo,
+    thumbnail: psThumbnail,
     description:
       "A simple storefront app where users can browse products by category and add items to a shopping cart. Powered by FakeStore API.",
     tags: ["React.js", "Tailwind CSS", "JavaScript", "FakeStore API"],
@@ -29,6 +34,7 @@ const projectsBadgeData = [
     nameHighlightStyle: "filled",
     highlightBg: "#8B1A1A",
     logo: gkBadgeLogo,
+    thumbnail: gkThumbnail,
     description:
       "A clean website redesign for GK1 World Foundation — ending poverty through shelter, community, and hope. Redesigned with a modern layout featuring news, platforms, events, and donation flows.",
     tags: ["React.js", "Tailwind CSS", "JavaScript", "Figma"],
@@ -41,6 +47,7 @@ const projectsBadgeData = [
     id: "giving-tuesday",
     name: "#GivingTuesdayPH",
     logo: gtBadgelogo,
+    thumbnail: gtThumbnail,
     description:
       "A clean website redesign for the Philippine chapter of the global generosity movement. Redesigned with a modern layout showcasing campaigns, countdowns, activities, and partner highlights.",
     tags: ["React.js", "Tailwind CSS", "JavaScript", "Figma"],
@@ -53,6 +60,7 @@ const projectsBadgeData = [
     id: "kaisahan",
     name: "KAISAHAN",
     logo: kaisahanBaddgeLogo,
+    thumbnail: kaisahanThumbnail,
     description:
       "A clean website redesign for Kaisahan, an agrarian reform & rural development NGO. Redesigned with a modern layout highlighting stories, resources, publications, and advocacy for landless Filipino farmers.",
     tags: ["React.js", "Tailwind CSS", "JavaScript", "Figma"],
